@@ -1,6 +1,11 @@
 # WhatsApp-extension-manipulation-PoC
 Android malware (.apk) can be spread through a fake PDF document by manipulating the file extension in the WhatsApp application. PoC is available in this repo
 
+
+https://github.com/user-attachments/assets/2af2c50c-2ae7-4f08-adaa-0b0e23963e68
+
+
+
 ### Step 1: First, create a free account at https://user.ultramsg.com/signup.php. We will use this to manage the API
 
 ### Step 2: Click the "Add Instance" button and create a new instance. <br>
