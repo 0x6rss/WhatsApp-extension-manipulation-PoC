@@ -16,7 +16,7 @@ Android malware (.apk) can be spread through a fake PDF document by manipulating
 ### Step 5: Run the wp.py file and watch the message being sent.
 ```sh
 python wp.py
-
+```
 
 ## Disclaimer
 
